@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage line-rate="1" branch-rate="0" version="3.0.1" timestamp="2018-03-11 12:34:05">
+  <sources>
+    <source>~/Documents/unit_test/fibo.R</source>
+  </sources>
+  <packages>
+    <package name="NULL" line-rate="1" branch-rate="0" complexity="0">
+      <classes>
+        <class name="fibo.R" filename="~/Documents/unit_test/fibo.R" line-rate="1" branch-rate="0" complexity="0">
+          <methods>
+            <method name="Fibonacci" signature="NA" line-rate="1" branch-rate="0">
+              <lines>
+                <line number="3" hits="3" branch="false"/>
+                <line number="4" hits="3" branch="false"/>
+                <line number="5" hits="3" branch="false"/>
+                <line number="6" hits="1" branch="false"/>
+                <line number="7" hits="2" branch="false"/>
+                <line number="8" hits="3" branch="false"/>
+                <line number="9" hits="3" branch="false"/>
+                <line number="10" hits="3" branch="false"/>
+                <line number="12" hits="2" branch="false"/>
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="3" hits="3" branch="false"/>
+            <line number="4" hits="3" branch="false"/>
+            <line number="5" hits="3" branch="false"/>
+            <line number="6" hits="1" branch="false"/>
+            <line number="7" hits="2" branch="false"/>
+            <line number="8" hits="3" branch="false"/>
+            <line number="9" hits="3" branch="false"/>
+            <line number="10" hits="3" branch="false"/>
+            <line number="12" hits="2" branch="false"/>
+          </lines>
+        </class>
+      </classes>
+    </package>
+  </packages>
+</coverage>
